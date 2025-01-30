@@ -49,7 +49,7 @@ function main()
 		{"Hñy trang bŞ khãa", deltem},
 		{"NhËn L¹i Vßng S¸ng Hæ trî t©n thñ", nhanvongsanght},
 		{"§æi tªn nh©n vËt", game_spreader2},
-		--{"§æi r¸c lÊy vò khİ ngÉu nhiªn", doirac},
+		{"§æi r¸c lÊy vò khİ ngÉu nhiªn", doirac},
 		--{"NhËn Vßng s¸ng hæ trî tíi cÊp 80", nhanvongsanght},
 		{"Tho¸t"},
 	}
@@ -73,7 +73,7 @@ function nhanvongsanght()
 		AddSkillState(313,5,1,600*60*18)  	--Vong duoi chan
 		AddSkillState(314,12,1,600*60*18)	 --Vong duoi chan
 		--AddSkillState(546,1,1,600*60*18)		 --Rong bay
-		Talk(1, "", "B¹n sÏ ®­îc nhËn hæ trî kü n¨ng nµy ®Õn cÊp 80");
+		Talk(1, "", "B¹n sÏ ®­îc nhËn hæ trî kü n¨ng  nµy ®Õn cÊp 80");
 	else
 		--RemoveSkillState(531)	--Ng«i sao
 		--RemoveSkillState(461)
