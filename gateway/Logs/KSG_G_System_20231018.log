@@ -1,0 +1,49 @@
+2023-10-18 18:44:09	Node[0] connect: Ip(127.0.0.1 : 36762), Identity(0)
+2023-10-18 18:44:09	ClientConnectCreate:[0]127.0.0.1 : 36762
+2023-10-18 18:44:09	Bishop claim from Node[0]!
+2023-10-18 18:44:12	Node[0] disconnect: Ip(127.0.0.1 : 36762), Identity(0)
+2023-10-18 18:44:12	ClientConnectClose:[0]
+
+2023-10-18 18:45:56	Node[1] connect: Ip(127.0.0.1 : 36766), Identity(1)
+2023-10-18 18:45:56	ClientConnectCreate:[1]127.0.0.1 : 36766
+2023-10-18 18:45:56	Bishop claim from Node[1]!
+2023-10-18 18:45:59	Node[1] disconnect: Ip(127.0.0.1 : 36766), Identity(1)
+2023-10-18 18:45:59	ClientConnectClose:[1]
+
+2023-10-18 18:53:13	Node[0] connect: Ip(127.0.0.1 : 36770), Identity(0)
+2023-10-18 18:53:13	ClientConnectCreate:[0]127.0.0.1 : 36770
+2023-10-18 18:53:13	Bishop claim from Node[0]!
+2023-10-18 18:53:16	Node[0] disconnect: Ip(127.0.0.1 : 36770), Identity(0)
+2023-10-18 18:53:16	ClientConnectClose:[0]
+
+2023-10-18 19:20:28	Node[1] connect: Ip(127.0.0.1 : 36774), Identity(1)
+2023-10-18 19:20:28	ClientConnectCreate:[1]127.0.0.1 : 36774
+2023-10-18 19:20:28	Node[1] disconnect: Ip(127.0.0.1 : 36774), Identity(1)
+2023-10-18 19:20:28	ClientConnectClose:[1]
+
+2023-10-18 19:24:29	Node[2] connect: Ip(127.0.0.1 : 36776), Identity(2)
+2023-10-18 19:24:29	ClientConnectCreate:[2]127.0.0.1 : 36776
+2023-10-18 19:24:29	Bishop claim from Node[2]!
+2023-10-18 19:28:44	Node[3] connect: Ip(127.0.0.1 : 42517), Identity(3)
+2023-10-18 19:28:44	ClientConnectCreate:[3]127.0.0.1 : 42517
+2023-10-18 19:34:08	CreateRoleData(GameMaster) OK: Account(anhbi791), datalen(575)
+2023-10-18 19:34:08	EnterGame(GameMaster) OK: Move from Node[2] to Node[3]
+2023-10-18 19:35:33	QuitSave[GameMaster] OK: Leave Node[3]
+2023-10-18 19:35:33	SaveRoleData(GameMaster) OK: datalen(2284)
+2023-10-18 19:40:38	Node[0] connect: Ip(127.0.0.1 : 36784), Identity(0)
+2023-10-18 19:40:38	ClientConnectCreate:[0]127.0.0.1 : 36784
+2023-10-18 19:40:38	Bishop claim from Node[0]!
+2023-10-18 19:40:38	Node[0] disconnect: Ip(127.0.0.1 : 36784), Identity(0)
+2023-10-18 19:40:38	ClientConnectClose:[0]
+
+2023-10-18 19:41:09	Node[0] connect: Ip(127.0.0.1 : 36788), Identity(0)
+2023-10-18 19:41:09	ClientConnectCreate:[0]127.0.0.1 : 36788
+2023-10-18 19:41:09	Bishop claim from Node[0]!
+2023-10-18 19:41:19	Node[1] connect: Ip(127.0.0.1 : 48152), Identity(1)
+2023-10-18 19:41:19	ClientConnectCreate:[1]127.0.0.1 : 48152
+2023-10-18 19:41:25	Node[1] disconnect: Ip(127.0.0.1 : 48152), Identity(1)
+2023-10-18 19:41:25	ClientConnectClose:[1]
+
+2023-10-18 19:41:28	Node[0] disconnect: Ip(127.0.0.1 : 36788), Identity(0)
+2023-10-18 19:41:28	ClientConnectClose:[0]
+

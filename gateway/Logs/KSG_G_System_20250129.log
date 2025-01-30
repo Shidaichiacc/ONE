@@ -1,0 +1,10 @@
+2025-01-29 12:01:49	Node[0] connect: Ip(127.0.0.1 : 59446), Identity(0)
+2025-01-29 12:01:49	ClientConnectCreate:[0]127.0.0.1 : 59446
+2025-01-29 12:01:49	Bishop claim from Node[0]!
+2025-01-29 12:01:46	Deliver statdata: 0 bytes
+2025-01-29 12:02:00	Node[1] connect: Ip(127.0.0.1 : 57401), Identity(1)
+2025-01-29 12:02:00	ClientConnectCreate:[1]127.0.0.1 : 57401
+2025-01-29 12:03:52	CreateRoleData(shidaichi) OK: Account(1), datalen(575)
+2025-01-29 12:03:52	EnterGame(shidaichi) OK: Move from Node[0] to Node[1]
+2025-01-29 12:11:52	QuitSave[shidaichi] OK: Leave Node[1]
+2025-01-29 12:11:52	SaveRoleData(shidaichi) OK: datalen(730)

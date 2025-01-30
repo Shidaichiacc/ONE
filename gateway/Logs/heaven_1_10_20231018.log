@@ -1,0 +1,20 @@
+2023-10-18 18:43:50	heaven(version 2.02) log start....
+2023-10-18 18:44:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 18:44:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 18:45:56	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 18:45:59	Callback Connectionidx:1, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 18:53:09	heaven(version 2.02) log start....
+2023-10-18 18:53:13	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 18:53:16	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 19:20:28	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 19:20:28	Callback Connectionidx:1, CloseReason:5, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 19:24:29	Allocate Connectionidx:2, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 19:28:44	Allocate Connectionidx:3, IP:127.0.0.1, LeftFreeCount:8
+2023-10-18 19:40:35	heaven(version 2.02) log start....
+2023-10-18 19:40:38	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 19:40:38	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 19:41:06	heaven(version 2.02) log start....
+2023-10-18 19:41:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 19:41:19	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:8
+2023-10-18 19:41:25	Callback Connectionidx:1, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 9
+2023-10-18 19:41:28	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10

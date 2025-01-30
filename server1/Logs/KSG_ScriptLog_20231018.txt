@@ -1,0 +1,25 @@
+2023-10-18 19:28:35	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-10-18 19:28:41	[1970-01-01 08:00:00] Register [Th› Luy÷n ß≠Íng] dungeon, templet mapid is [925].
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:29:13	2841018-19:29: Bæt Æ«u treo m∏y!
+2023-10-18 19:34:12	clean GameMaster(Level:1) Tong Contribution old value is 0 new value is 0
+2023-10-18 19:41:17	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-10-18 19:41:19	[1970-01-01 08:00:00] Register [Th› Luy÷n ß≠Íng] dungeon, templet mapid is [925].
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
+2023-10-18 19:41:23	1151018-19:41: Bæt Æ«u treo m∏y!
